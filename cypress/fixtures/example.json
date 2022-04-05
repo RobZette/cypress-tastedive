@@ -1,0 +1,16 @@
+[
+  { 
+    "query": "L'impératrice",
+    "type": "Music",
+    "info": "1",
+    "limit": "5",
+    "k": "434441-Robin-CY58WEVA"
+  },
+  { 
+    "query": "Queen",
+    "type": "Music",
+    "info": "0",
+    "limit": "10",
+    "k": "434441-Robin-CY58WEVA"
+  }
+]
